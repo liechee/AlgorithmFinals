@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 23px;
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  h2 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  #result {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
